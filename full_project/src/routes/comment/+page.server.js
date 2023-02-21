@@ -1,7 +1,7 @@
 export const actions = {
   default: async (event) => {
     const form = await event.request.formData();
-    const url = await event.url;
+    const url = event.url;
     console.log(url.searchParams);
 
     const comment = form.get('comment');
