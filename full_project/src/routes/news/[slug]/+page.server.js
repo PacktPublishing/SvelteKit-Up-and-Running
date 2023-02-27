@@ -11,5 +11,5 @@ export function load({ params }) {
   if(Object.keys(found).length !== 0) {
     return found;
   }
-  throw error(404, `Whoops! That article wasn\'t found!`);
+  throw error(404, `Whoops! That article wasn't found!`);
 }
