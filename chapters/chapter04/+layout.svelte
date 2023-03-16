@@ -6,7 +6,7 @@
     <Nav />
   </div>
   <div class='content'>
-    <slot></slot>
+    <slot />
   </div>
   <div class='footer'>
     This is my footer
