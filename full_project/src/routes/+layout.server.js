@@ -1,5 +1,5 @@
 export function load({ cookies }) {
-  let data = {
+  const data = {
     notifications: {
       count: 3,
       items: [

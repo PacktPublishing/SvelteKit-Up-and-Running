@@ -34,7 +34,6 @@ export let data;
   }
   .notifications {
     float: right;
-    display: inline-block;
   }
   .footer {
     text-align: center;
