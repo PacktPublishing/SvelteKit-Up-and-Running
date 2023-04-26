@@ -10,4 +10,4 @@
 </form>
 <h1>Hello, {name}!</h1>
 <p>{status}</p>
-<img src={url}>
+<img src={url} alt='demo'>
