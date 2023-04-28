@@ -4,4 +4,4 @@
 	let status = db.connection;
 </script>
 <p>{status}</p>
-<img src={url}>
+<img src={url} alt='demo'>
