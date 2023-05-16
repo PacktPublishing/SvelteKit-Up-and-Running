@@ -1,6 +1,7 @@
 <script>
-import Nav from '$lib/Nav.svelte';
-import Notify from '$lib/Notify.svelte';
+  import '/src/reset.css';
+  import Nav from '$lib/Nav.svelte';
+  import Notify from '$lib/Notify.svelte';
 
 export let data;
 </script>
