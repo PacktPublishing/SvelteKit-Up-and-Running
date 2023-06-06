@@ -1,5 +1,6 @@
 <script>
   import '/src/reset.css';
+  import '/src/app.css';
   import Nav from '$lib/Nav.svelte';
   import Notify from '$lib/Notify.svelte';
 
@@ -14,7 +15,7 @@ export let data;
       <Notify count={data.notifications.count}/>
     </div>
   </div>
-  <div class='content'>
+  <div class='content bg-orange-200'>
     <slot />
   </div>
   <div class='footer'>
