@@ -7,8 +7,9 @@ This is the code repository for [SvelteKit Up and Running](https://www.packtpub.
 **Leverage the power of a next-generation web framework to build high-performance web apps with ease**
 
 ## What is this book about?
+The JavaScript ecosystem has grown vast, complex, and daunting for newcomers. Fortunately, SvelteKit has emerged, simplifying the process of building JavaScript-based web applications. This book aims to demystify SvelteKit, making it as approachable as it makes web app development.
 
-* This book covers the following exciting features:
+This book covers the following exciting features:
 * Overview of core technologies making SvelteKit possible
 * Basic and advanced concepts behind SvelteKit's file-based routing
 * Keep code organized with SvelteKit's handy data loading techniques
